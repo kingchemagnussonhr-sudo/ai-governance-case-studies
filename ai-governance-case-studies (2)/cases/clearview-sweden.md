@@ -1,7 +1,7 @@
 # Case Study: Clearview AI & Swedish Police (2019–2023)
 **AI Governance · GRC · Cognitive Security**
 
-> *Part of the [AI Governance Case Studies](../README.md) series — examining real-world AI deployments against EU law, democratic accountability, and cognitive security risks.*
+> *Part of the [AI Governance Case Studies](../README.md) series examining real-world AI deployments against EU law, democratic accountability, and cognitive security risks.*
 
 ---
 
