@@ -11,4 +11,4 @@
 
 *Coming next in the series.*
 
-*Author: King Che Eliezer Ossei-Mensah | [LinkedIn](https://www.linkedin.com/in/kingchemagnussonhr-sudo) | [GitHub](https://github.com/kingchemagnussonhr-sudo)*
+*Author: King Che Magnusson| [LinkedIn](https://www.linkedin.com/in/kingchemagnussonhr-sudo) | [GitHub](https://github.com/kingchemagnussonhr-sudo)*
