@@ -2,9 +2,9 @@
 
 > Real-world AI deployments examined against EU law, democratic accountability, and cognitive security risks.
 
-**Author:** King Che Eliezer Ossei-Mensah
+**Author:** King Che Magnusson
 **Focus:** GRC · AI Governance · IT Risk · Cognitive Security
-**LinkedIn:** [linkedin.com/in/kingchemagnussonhr-sudo](https://www.linkedin.com/in/kingchemagnussonhr-sudo)
+**LinkedIn:** [linkedin.com/in/kingchemagnussonhr-sudo](https://www.linkedin.com/in/kingchemagnussonhr)
 
 ---
 
