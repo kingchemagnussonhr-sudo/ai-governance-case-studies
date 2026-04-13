@@ -104,4 +104,4 @@ The following risks are structural features of AI-assisted decision-making. They
 
 ---
 
-*Author: King Che Eliezer Ossei-Mensah | [LinkedIn](https://www.linkedin.com/in/kingchemagnussonhr-sudo) | [GitHub](https://github.com/kingchemagnussonhr-sudo)*
+*Author: King Che Magnusson | [LinkedIn](https://www.linkedin.com/in/kingchemagnussonhr-sudo) | [GitHub](https://github.com/kingchemagnussonhr-sudo)*
