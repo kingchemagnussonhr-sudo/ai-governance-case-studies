@@ -1,0 +1,102 @@
+# Why These Documents Should Be Read as One Argument
+## On the Connection Between Regulatory Arbitrage and Cognitive Normalization
+
+**Document type:** Framework introduction
+**Reads with:** Regulatory Arbitrage as Business Strategy / Infrastructural Authority Conditioning
+**Status:** May 2026
+
+---
+
+## The Fragmentation Problem
+
+Governance analysis has a disciplinary habit that actively undermines its own usefulness.
+
+Lawyers analyze consent violations. Security researchers analyze attack surfaces. Economists analyze incentive structures. Cognitive scientists analyze user behavior. Each produces rigorous work within its own frame. None of them, working separately, can explain what is actually happening.
+
+This is not a criticism of any individual discipline. It is a structural observation about how institutions organize knowledge. Faculties have boundaries. Journals have scope. Regulators have mandates. The system is designed to produce specialized expertise, and it does.
+
+The problem is that the phenomena being analyzed do not respect those boundaries.
+
+When Google Chrome silently distributes a 4 GB AI model to user endpoints without consent, the following things are simultaneously true:
+
+It is a consent violation under ePrivacy Directive Article 5(3). A lawyer can analyze that.
+
+It is a cost externalization event transferring storage, bandwidth, energy, and security management costs to users without compensation. An economist can analyze that.
+
+It is an endpoint security event that modifies the attack surface of every affected device without the knowledge of the security team responsible for it. A security researcher can analyze that.
+
+It is a cognitive event that, repeated at scale across hundreds of millions of users, progressively recalibrates what users experience as normal vendor behavior. A cognitive scientist can analyze that.
+
+And it is a rational strategic decision that makes sense given the structure of incentives in the current governance environment. A political economist can analyze that.
+
+Each of these analyses is correct. None of them is complete. And the incompleteness matters, because the strategic behavior being analyzed is precisely calibrated to exploit the gaps between them.
+
+---
+
+## The Connection That Gets Missed
+
+The two documents this introduction accompanies make arguments that belong to different disciplinary traditions.
+
+*Regulatory Arbitrage as Business Strategy* is a political economy argument. It describes how large technology actors exploit the gap between deployment velocity and regulatory response time, externalize costs to users, convert market dominance into regulatory leverage, and invest in regulatory dilution as a rational return on capital. Its frame is incentive structure and institutional design.
+
+*Infrastructural Authority Conditioning* is a cognitive governance argument. It describes how repeated exposure to unilateral vendor-side environmental modification progressively erodes users' operative expectation of agency over their own computational environments. Its frame is human factors, behavioral normalization, and the cognitive preconditions for meaningful consent.
+
+The standard approach would be to treat these as separate papers for separate audiences.
+
+That approach reproduces exactly the fragmentation the analysis is trying to overcome.
+
+The connection between the two documents is not incidental. It is the argument.
+
+---
+
+## The System, Stated Plainly
+
+Regulatory arbitrage strategies share a common dependency that is rarely named explicitly.
+
+They require users who do not actively resist.
+
+Cost externalization fails at scale if users consistently refuse to bear costs. Deployment fait accompli fails if users demand removal in sufficient numbers. Regulatory dilution fails if public pressure maintains legislative intent through the amendment process. Systemic indispensability fails as a negotiating position if users abandon the platform rather than accept the dependency.
+
+None of these failure modes is purely technical. Each depends on human behavior. Specifically, each depends on users not exercising the agency that would, in aggregate, constrain the strategy.
+
+This creates a structural incentive: actors who benefit from passive users have consistent reason to produce conditions that generate passivity. They do not need to coordinate to do this. They do not need to consciously conceptualize it in these terms. The incentive exists regardless of intent, and the market selects for actors who respond to it.
+
+The mechanism that generates passivity is what *Infrastructural Authority Conditioning* describes: repeated exposure to normalized environmental modification that progressively recalibrates the baseline against which users evaluate vendor behavior. When the baseline shifts far enough, violations that would previously have triggered active response become invisible against the new normal.
+
+Cognitive normalization is therefore not a side effect of regulatory arbitrage. It is a functional component of it. It is the human infrastructure on which the legal and economic strategies depend. Remove it, and the other strategies become significantly more costly. Maintain it, and regulatory pressure organically weakens as the public perception of harm decays.
+
+This is why the two documents must be read together.
+
+---
+
+## What This Means for Governance
+
+If cognitive normalization is a functional component of regulatory arbitrage, then governance frameworks that address only the legal and economic dimensions are incomplete in a specific and consequential way.
+
+A framework that successfully enforces consent requirements but leaves the normalization dynamic unaddressed will find that consent, in practice, means less over time. The formal right to refuse persists. The cognitive baseline required to exercise it erodes.
+
+A framework that successfully imposes cost internalization requirements but ignores the human factors dimension will find that users who have been conditioned into passive acceptance do not exercise the economic pressure that would make internalization meaningful.
+
+The governance question this raises is not comfortable: what would it mean to treat the cognitive preconditions for meaningful consent as a regulatory concern in their own right?
+
+This is not a question current frameworks are designed to answer. GDPR addresses consent as a legal formality. The EU AI Act addresses transparency as an information requirement. Neither addresses the operative cognitive capacity that makes consent or transparency practically meaningful rather than nominally present.
+
+That gap is where the next generation of governance questions will live.
+
+---
+
+## How to Read These Documents
+
+*Regulatory Arbitrage as Business Strategy* is the economic and institutional argument. It explains why the behavior occurs, what incentive structure produces it, and what institutional design would be required to change that structure. Its primary audience is policy analysts, legal practitioners, and governance researchers.
+
+*Infrastructural Authority Conditioning* is the cognitive and human factors argument. It explains what the behavior does to the humans who experience it, why that matters for security culture and meaningful consent, and how it connects to the CV taxonomy being developed in the OWASP HCI Cognitive Layer framework. Its primary audience is security practitioners, HCI researchers, and AI governance specialists.
+
+Neither document is a summary of the other. They address different levels of the same system.
+
+The Chrome case that anchors both documents is an instance. The system it illustrates predates Chrome and will outlast it. Understanding the instance is useful. Understanding the system is necessary.
+
+---
+
+*This introduction is part of the ai-governance-case-studies repository.*
+*OWASP HCI Cognitive Layer: CV-05 Algorithmic Authority Bias, CV-XX Infrastructural Authority Conditioning (proposed)*
+*Related case: KAIROS Autonomous Agent Governance*
